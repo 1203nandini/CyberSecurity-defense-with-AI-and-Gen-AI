@@ -69,9 +69,9 @@ AI-driven chatbots provide instant responses to employee security queries, offer
 
 # Challenges of AI in Cybersecurity
   1.Privacy concerns
-- 2. Bias and fairness** issues in decision-making
-- 3.Accountability and transparency** of AI decisions
-- 4.Ethical dilemmas** between security and personal freedom
+- 2. Bias and fairness issues in decision-making
+- 3.Accountability and transparency of AI decisions
+- 4.Ethical dilemmas between security and personal freedom
 
 ---
 
